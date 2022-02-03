@@ -1,1 +1,1 @@
-# SQL-Queries-for-Vizualizations
+# SQL Queries for data vizualizations 
